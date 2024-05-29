@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""A Basic Flask app with internationalization support.
+"""App with internationalization support.
 """
 import pytz
 from flask_babel import Babel
